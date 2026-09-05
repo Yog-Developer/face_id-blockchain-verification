@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+.env
+.env.*
+
+target/
+node_modules/
+
+wallet.json
